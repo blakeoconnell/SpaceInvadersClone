@@ -1,4 +1,4 @@
-# SpaceInvadersClone
+# Space Invaders Clone
 
 A clone of the classic arcade game, Space Invaders. Developed in Python using the Turtle module.
 
